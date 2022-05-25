@@ -19,7 +19,7 @@ The main guidelines were:
 
 ## Additional guidelines for the annotation of the S1000 corpus
 
-* The first resource that is trusted to resolve issues is [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy). If there is still not enough information there we have resolved inconsistencies using the [Catalogue of Life](http://www.catalogueoflife.org/), [ICTV](https://talk.ictvonline.org/taxonomy/), [ITIS](https://www.itis.gov/) and [WoRMs](https://www.marinespecies.org/).
+* The first resource that is trusted to resolve issues is [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy). If there is still not enough information there we have resolved inconsistencies using the [Catalogue of Life](http://www.catalogueoflife.org/), [ICTV](https://talk.ictvonline.org/taxonomy/), [ITIS](https://www.itis.gov/), [Avibase](https://avibase.bsc-eoc.org/avibase.jsp?lang=EN)  and [WoRMs](https://www.marinespecies.org/).
 * The NCBI Taxonomy Ranking has been adopted from [Schoch, _et. al_, 2020](https://academic.oup.com/database/article/doi/10.1093/database/baaa062/5881509#206172258) 
 
 ### General annotation guidelines
